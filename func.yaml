@@ -11,7 +11,7 @@ config:
   TOPIC_OCID: ocid1.onstopic.oc1.iad.aaaaaaaahawhm23fb4uynmxenaeelptfjh4mmmk77ihyra6hzbrxo4c3imgq
   ADB_OCID: ocid1.autonomousdatabase.oc1.iad.anuwcljspfaav7ya7ubsjdwf6iu6yhlge2x5ioitv6hbztplh3rk675y63va
   COMPANY: AGEA
-  DBPWD: Prysrdr2023$
+  DBPWD: pRYSRDR2023$
   DBSVC: functinoadb_high
   DBUSER: ADMIN
   TNS_ADMIN: /tmp/dbwallet
